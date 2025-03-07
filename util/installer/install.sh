@@ -2,7 +2,7 @@
 
 # Clone the repository
 echo "Cloning the repository..."
-git clone https://github.com/aws-samples/document-translation.git
+git clone https://github.com/Percepta-Solutions/document-translation.git
 cd "document-translation" || exit
 
 # Set the working directory
